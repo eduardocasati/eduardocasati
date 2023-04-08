@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=0EF74E&vCenter=true&width=435&height=20&lines=Hello%2C+World!)](https://git.io/typing-svg)
+
 Meu nome é Eduardo Casati e sou um desenvolvedor web.
 
 Atualmente estudo JavaScript e algumas de suas bibliotecas e frameworks, como o React, na [Trybe](https://www.betrybe.com/).
