@@ -23,7 +23,6 @@ Atualmente estudo JavaScript e algumas de suas bibliotecas e frameworks, como o 
 </div>
 <br>
 <br>
-<br>
 <div align="center">
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/eduardo-casati/)
+<a href="https://www.linkedin.com/in/eduardo-casati/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
