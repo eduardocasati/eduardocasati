@@ -24,5 +24,5 @@ Atualmente estudo JavaScript e algumas de suas bibliotecas e frameworks, como o 
 <br>
 <br>
 <div align="center">
-<a href="https://www.linkedin.com/in/eduardo-casati/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/eduardo-casati/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
