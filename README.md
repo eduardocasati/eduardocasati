@@ -2,7 +2,7 @@
 
 Meu nome é Eduardo Casati e sou um desenvolvedor web recentemente formado pela [Trybe](https://www.betrybe.com/formacao-desenvolvimento-web), onde aprofundei e apliquei de maneira prática conhecimentos em diversas tecnologias, incluindo JavaScript, React e Node.js, através da realização de [39 projetos](https://github.com/eduardocasati/trybe-projetos).
 
-Estou aberto a conexões e oportunidades no universo do desenvolvimento web.
+Estou aberto a oportunidades e conexões no desenvolvimento web.
 </br>
 </br>
 </br>
