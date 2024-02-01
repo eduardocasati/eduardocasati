@@ -1,10 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=16F713&random=false&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=100&color=16F713&random=false&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
 
 Meu nome é Eduardo Casati e sou um desenvolvedor web recentemente formado pela [Trybe](https://www.betrybe.com/formacao-desenvolvimento-web), onde realizei [39 projetos práticos](https://github.com/eduardocasati/trybe-projetos) explorando tecnologias como JavaScript, React e Node.js.
 
 Estou aberto a conexões e oportunidades no universo do desenvolvimento web.
-<br>
-<br>
+</br>
+</br>
+</br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocasati&layout=compact&theme=transparent" height="167">
 <img src="https://github-readme-stats.vercel.app/api?username=eduardocasati&count_private=true&show_icons=true&theme=transparent" width="400">
