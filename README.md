@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=100&color=16F713&random=false&width=435&lines=Hello%2C+World!)](https://git.io/typing-svg)
 
-Meu nome é Eduardo Casati e sou um desenvolvedor web recentemente formado pela [Trybe](https://www.betrybe.com/formacao-desenvolvimento-web), onde aprofundei e apliquei de maneira prática conhecimentos em diversas tecnologias, incluindo JavaScript, React e Node.js, através da realização de [39 projetos](https://github.com/eduardocasati/trybe-projetos).
+Meu nome é Eduardo Casati e sou um desenvolvedor web recentemente formado pela **[Trybe](https://www.betrybe.com/formacao-desenvolvimento-web)**, onde aprofundei e apliquei de maneira prática conhecimentos em diversas tecnologias, incluindo JavaScript, React e Node.js, através da realização de **[39 projetos](https://github.com/eduardocasati/trybe-projetos)**.
 
 Estou aberto a oportunidades e conexões no desenvolvimento web.
 </br>
