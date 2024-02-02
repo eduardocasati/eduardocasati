@@ -5,12 +5,9 @@ Meu nome é Eduardo Casati e sou um desenvolvedor web recentemente formado pela 
 Estou aberto a oportunidades e conexões no desenvolvimento web.
 </br>
 </br>
-</br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocasati&layout=compact&theme=transparent" height="167">
-<img src="https://github-readme-stats.vercel.app/api?username=eduardocasati&count_private=true&show_icons=true&theme=transparent" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocasati&layout=compact&theme=github_dark" />
 </div>
-</br>
 
 ## 💻Tech Stack
 ![JavaScript Badge](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript Badge](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5 Badge](https://img.shields.io/badge/html5-E54C21?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 Badge](https://img.shields.io/badge/css3-214CE5?style=for-the-badge&logo=css3&logoColor=white) ![React Badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000) ![Redux Badge](https://img.shields.io/badge/redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Node.js Badge](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express Badge](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white) ![Docker Badge](https://img.shields.io/badge/docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white) ![JSON Web Tokens Badge](https://img.shields.io/badge/json%20web%20tokens-black?style=for-the-badge&logo=json%20web%20tokens&logoColor=white) ![MySQL Badge](https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white)
