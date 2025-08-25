@@ -3,7 +3,6 @@
 Meu nome é Eduardo Casati e sou um desenvolvedor web formado pela **[Trybe](https://www.betrybe.com/formacao-desenvolvimento-web)**, onde aprofundei e apliquei de maneira prática conhecimentos em diversas tecnologias, incluindo JavaScript, React e Node.js, através da realização de **[39 projetos](https://github.com/eduardocasati/trybe-projetos)**.
 
 </br>
-</br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocasati&layout=compact&theme=github_dark" />
 </div>
